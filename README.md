@@ -24,6 +24,6 @@ Build a system that:
 ## 🧠 Roles & Focus
 
 - **Maximilian** –
-- **[Partner Name]** –
+- **Stephen** –
 
 ## 📦 Project Structure
