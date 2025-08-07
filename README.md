@@ -27,3 +27,8 @@ Build a system that:
 - **Stephen** –
 
 ## 📦 Project Structure
+
+
+# Steps
+
+## 1. Data Quisition
